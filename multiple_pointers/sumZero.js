@@ -1,4 +1,4 @@
-/* write a function that takes an array an returns the pair of numbers
+/* write a function that takes a sorted array an returns the pair of numbers
 inside that array which the sum is equal to zero */
 
 // Solution:
